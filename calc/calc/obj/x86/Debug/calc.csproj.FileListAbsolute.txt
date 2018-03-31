@@ -1,0 +1,11 @@
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\calc\bin\Debug\calc.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\calc\bin\Debug\calc.pdb
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\calc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\calc\obj\x86\Debug\calc.Form1.resources
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\calc\obj\x86\Debug\calc.Properties.Resources.resources
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\calc\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\calc\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\calc\obj\x86\Debug\calc.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\calc\obj\x86\Debug\calc.pdb
+\\mac\home\documents\visual studio 2010\Projects\calc\calc\obj\x86\Debug\calc.exe
+\\mac\home\documents\visual studio 2010\Projects\calc\calc\obj\x86\Debug\calc.pdb
